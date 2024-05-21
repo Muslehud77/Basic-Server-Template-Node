@@ -43,7 +43,7 @@ Basic_Setup/
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/your-username/Basic_Setup.git
+   git clone https://github.com/Muslehud77/Basic-Server-Template-Node.git
    cd Basic_Setup
    ```
 
